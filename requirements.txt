@@ -1,0 +1,39 @@
+# Environment & Logging
+python-dotenv
+google-cloud-logging
+python-json-logger
+
+# Web Framework & Server
+Flask
+gunicorn
+
+# Data Processing & ML
+numpy
+pandas
+scikit-learn
+
+# Deep Learning (ANN, RNN, Transformer Models)
+tensorflow
+transformers
+keras
+
+# NLP & Text Processing
+nltk
+spacy
+sentence-transformers
+
+# OCR (If processing invoices with text extraction)
+pytesseract
+pdf2image
+pdfminer.six
+tika
+
+
+# Cloud Storage & APIs (Google Cloud, AWS, Azure)
+google-cloud-storage
+
+# Utility Libraries
+requests
+matplotlib
+seaborn
+tqdm

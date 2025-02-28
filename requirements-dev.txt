@@ -1,0 +1,31 @@
+-r requirements.txt  # First, install all production dependencies
+
+# Testing & Debugging
+pytest
+pytest-cov
+black
+flake8
+isort
+mypy
+
+# Development Utilities
+pre-commit
+ipython
+jupyter
+notebook
+
+# Profiling & Performance Monitoring
+line-profiler
+memory-profiler
+
+# Mocking & Fixtures for Tests
+faker
+responses
+
+# Code Formatting & Linting
+autopep8
+pylint
+
+# Additional Dev Tools (Optional)
+httpx  # For testing API requests
+debugpy  # For debugging in VS Code
