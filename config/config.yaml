@@ -1,0 +1,13 @@
+# config.py
+
+# Path to dataset directories
+TRAIN_DIR = "train"
+
+# Training parameters
+BATCH_SIZE = int 4  # Number of samples per batch
+NUM_EPOCHS = int 5  # Number of times the model will see the dataset
+LEARNING_RATE = 5e-5  # Learning rate for optimization
+
+# Model configuration
+NUM_LABELS = 10  # Number of unique entity labels
+DEVICE = "CPU"  # Use GPU if available, else CPU

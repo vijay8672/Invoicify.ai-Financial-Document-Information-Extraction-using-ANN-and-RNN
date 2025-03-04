@@ -13,9 +13,13 @@ pandas
 scikit-learn
 
 # Deep Learning (ANN, RNN, Transformer Models)
-tensorflow
 transformers
-keras
+torch
+torchvision
+datasets
+tqdm
+
+
 
 # NLP & Text Processing
 nltk
